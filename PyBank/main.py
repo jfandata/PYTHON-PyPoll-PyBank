@@ -53,3 +53,5 @@ with open (csvpath, newline="") as csvfile:
 # greatest decrease in profits
     min_change = min(change)
     print (f"${min_change}")
+
+    
