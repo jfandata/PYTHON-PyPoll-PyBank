@@ -54,5 +54,19 @@ with open (csvpath, newline="") as csvfile:
     min_change = min(change)
     print (f"${min_change}")
     
+# greatest increase in profits
+    max_change = max(change)
+    print (f"Greatest Increase in Revenues: ${max_change}")
+# greatest decrease in profits
+    min_change = min(change)
+    print (f"Greasest Decrease in Revenues:  ${min_change}")
 
+# export results
+exportpath = ("Results.txt")
+with open(exportpath, "w") as textfile:
+        textfile.write(f"Total Months: {total_months}")
+        textfile.write(f"Total: ${revenues}")
+        textfile.write(f"Average Change: ${round((average_month),2)}")
+        textfile.write(f"Greatest Increase in Revenues: ${max_change}")
+        textfile.write(f"Greasest Decrease in Revenues:  ${min_change}")
         
