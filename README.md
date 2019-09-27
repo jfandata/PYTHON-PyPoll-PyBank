@@ -45,12 +45,58 @@ PyPoll: create a Python script that analyzes the votes and calculates each of th
 
 ## Key Takeaways
 
-1. import dependencies
+1. Import dependencies.
 
 ```python
 import os
 import csv
 ```
 
+2. Create a path to raw data, read and open csv with headers.
+
+```python
+csvpath = os.path.join("Resources/budget_data.csv")
+
+with open (csvpath, newline="") as csvfile:
+    csv_reader =csv.reader(csvfile, delimiter=",")
+    csv_headers = next(csv_reader, None)
+```
+
+3. Python lists are written with [] square brackets. Create lists to store data.
+
+```python
+months = []
+profit = []
+```
+
+4. Write a for loop to go through csv data and append to lists created in #3. 
+
+```python
+for row in csv_reader:
+    months.append(row[1])
+    profit.append(int(row[1]))
+```
+
+5. Apply min and max functions and print results.
+
+```python
+max_change = max(change)
+print (f"${max_change}")
+
+min_change = min(change)
+print (f"${min_change}")
+```
+
+6. Export results.
+
+```python
+exportpath = ("Results.txt")
+with open(exportpath, "w") as textfile:
+    textfile.write(f"Total Months: {total_months}")
+    textfile.write(f"Total: ${revenues}")
+    textfile.write(f"Average Change: ${round((average_month),2)}")
+    textfile.write(f"Greatest Increase in Revenues: ${max_change}")
+    textfile.write(f"Greasest Decrease in Revenues:  ${min_change}")
+```
 
 
