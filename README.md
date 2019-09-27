@@ -27,13 +27,13 @@ PyPoll: create a Python script that analyzes the votes and calculates each of th
 - The total number of votes each candidate won
 - The winner of the election based on popular vote.
 
-## Needs of this project
+## Needs of this Project
 
 - data processing/cleaning
 - data exploration
 - python script
 
-## Getting Started
+## Contents of Project Repository
 
 1. Raw Data for PyBank is kept within this [repo](https://github.com/jfandata/PYTHON-PyPoll-PyBank/tree/master/PyBank/Resources).
 
