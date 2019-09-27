@@ -47,8 +47,10 @@ PyPoll: create a Python script that analyzes the votes and calculates each of th
 
 1. import dependencies
 
-```import os
-import csv```
+```python
+import os
+import csv
+```
 
 
 
