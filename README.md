@@ -1,10 +1,10 @@
 # PyBank and PyPoll
-These projects are part of the Data Analytics and Visualization Certification at Washington University in St. Louis.  Other projects can be found at the [main GitHub repo](https://github.com/jfandata).
+This project is part of the Data Analytics and Visualization Certification at Washington University in St. Louis.  Other projects can be found at the [main GitHub repo](https://github.com/jfandata).
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The objective of the projects is to use Python scripting skills to analyze real world situations. The purpose of PyBank is to analyze company financial records and financial performance over time. In the project PyPoll, the purpose is to count and analyze voting data to determine the winner of the election. 
+The objective of the project is to use Python scripting skills to analyze real world situations. PyBank analyzes company financial records and financial performance over time. PyPoll count and analyze voting data to determine the winner of the election. 
 
 ### Methods Used
 * Python scripts
@@ -35,7 +35,7 @@ PyPoll: create a Python script that analyzes the votes and calculates each of th
 
 ## Getting Started
 
-1. Raw Data for PyBank is kept within this [repo](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/projects/Python/PyBank/Resources).
+1. Raw Data for PyBank is kept within this [repo](https://github.com/jfandata/PYTHON-PyPoll-PyBank/tree/master/PyBank/Resources).
 
 2. Raw Data for PyPoll is kept within this [repo](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/projects/Python/PyPoll/Resources).
 
