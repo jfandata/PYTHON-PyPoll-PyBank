@@ -37,8 +37,8 @@ PyPoll: create a Python script that analyzes the votes and calculates each of th
 
 1. Raw Data for PyBank is kept within this [repo](https://github.com/jfandata/PYTHON-PyPoll-PyBank/tree/master/PyBank/Resources).
 
-2. Raw Data for PyPoll is kept within this [repo](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/projects/Python/PyPoll/Resources).
+2. Raw Data for PyPoll is kept within this [repo](https://github.com/jfandata/PYTHON-PyPoll-PyBank/tree/master/PyPoll/Resources).
 
-2. Data processing/transformation scripts (file main.py) for PyBank are being kept [here](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/projects/Python/PyBank) and PyPoll are kept [here](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/projects/Python/PyPoll)
+2. Data processing/transformation scripts (file main.py) for PyBank are being kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyBank/main.py) and PyPoll are kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyPoll/main.py)
 
-3. Results for PyBank are being kept [here](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/projects/Python/PyBank) and PyPoll are kept [here](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/projects/Python/PyPoll)
+3. Results for PyBank are being kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyBank/Results.txt) and PyPoll are kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyPoll/Results.txt)
