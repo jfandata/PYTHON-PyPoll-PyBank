@@ -35,9 +35,9 @@ PyPoll: create a Python script that analyzes the votes and calculates each of th
 
 ## Contents of Project Repository
 
-1. Raw Data for PyBank is kept within this [repo](https://github.com/jfandata/PYTHON-PyPoll-PyBank/tree/master/PyBank/Resources).
+1. Raw data for PyBank is kept within this [repo](https://github.com/jfandata/PYTHON-PyPoll-PyBank/tree/master/PyBank/Resources).
 
-2. Raw Data for PyPoll is kept within this [repo](https://github.com/jfandata/PYTHON-PyPoll-PyBank/tree/master/PyPoll/Resources).
+2. Raw data for PyPoll is kept within this [repo](https://github.com/jfandata/PYTHON-PyPoll-PyBank/tree/master/PyPoll/Resources).
 
 2. Data processing/transformation scripts (file main.py) for PyBank are being kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyBank/main.py) and PyPoll are kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyPoll/main.py)
 
