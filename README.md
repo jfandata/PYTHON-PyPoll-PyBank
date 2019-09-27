@@ -1,5 +1,5 @@
 # PyBank and PyPoll
-These projects are part of the Data Analytics and Visualization Certification at Washington University in St. Louis.  Other projects can be found at the [main GitHub repo](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate).
+These projects are part of the Data Analytics and Visualization Certification at Washington University in St. Louis.  Other projects can be found at the [main GitHub repo](https://github.com/jfandata).
 
 #### -- Project Status: [Completed]
 
