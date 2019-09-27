@@ -42,3 +42,13 @@ PyPoll: create a Python script that analyzes the votes and calculates each of th
 2. Data processing/transformation scripts (file main.py) for PyBank are being kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyBank/main.py) and PyPoll are kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyPoll/main.py)
 
 3. Results for PyBank are being kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyBank/Results.txt) and PyPoll are kept [here](https://github.com/jfandata/PYTHON-PyPoll-PyBank/blob/master/PyPoll/Results.txt)
+
+## Key Takeaways
+
+1. import dependencies
+
+```import os
+import csv```
+
+
+
